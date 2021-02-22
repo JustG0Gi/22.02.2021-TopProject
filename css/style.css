@@ -1,0 +1,63 @@
+h1 {
+	text-align:center;
+	font-family:'Comic Sans MS', cursive;
+	font-style: italic;
+}
+h2 {
+	text-align:center;
+	font-family:'Comic Sans MS', cursive;
+	font-style: italic;
+}
+h3 {
+	font-family:'Comic Sans MS', cursive;
+	font-style: italic;
+}
+.hat {
+	display: inline;
+	padding-right:40px;
+}
+.hat1 {
+	float:left;
+}
+.hat2 {
+	float:right;
+	padding-top:14px;
+}
+.go {
+	margin-right:30px;
+}
+
+body {
+	background:gray;
+	margin-left:300px;
+	margin-right:300px;
+}
+.top {
+	width: 748px;
+	background:purple;
+	display:inline-block;
+}
+.main1 {
+	float:left;
+	background:white;
+	width:550px;
+	padding-left:10px;
+	padding-bottom:1px;
+	margin-top:6px;
+	
+}
+.main2 {
+	background:pink;
+	float:right;
+	width:179px;
+	height: 447px;
+	margin-top:6px;
+}
+.footer {
+	background:white;
+	display:inline-block;
+	width:738px;
+	height:50px;
+	margin-top:8px;
+	padding-left:10px;
+}
