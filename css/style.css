@@ -12,9 +12,7 @@ h3 {
 	font-family:'Comic Sans MS', cursive;
 	font-style: italic;
 }
-.main {
-	background:green;
-}
+
 .main::after {
 	content: '.';
 	display:block;
