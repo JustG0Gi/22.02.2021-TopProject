@@ -12,6 +12,15 @@ h3 {
 	font-family:'Comic Sans MS', cursive;
 	font-style: italic;
 }
+.main {
+	background:green;
+}
+.main::after {
+	content: '.';
+	display:block;
+	clear:both;
+	height:0;
+}
 .hat {
 	display: inline;
 	padding-right:40px;
