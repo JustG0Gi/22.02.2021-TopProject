@@ -29,12 +29,10 @@ h3 {
 
 body {
 	background:gray;
-	margin-left:300px;
-	margin-right:300px;
 }
 .top {
 	width: 748px;
-	background:purple;
+	background:pink;
 	display:inline-block;
 }
 .main1 {
@@ -60,4 +58,12 @@ body {
 	height:50px;
 	margin-top:8px;
 	padding-left:10px;
+}
+.all {
+	width:56%;
+	margin:0 auto;
+}
+.go {
+	background:black;
+	color:white;
 }
